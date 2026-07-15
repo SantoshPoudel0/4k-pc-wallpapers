@@ -14,4 +14,4 @@ Free to use. See `LICENSE`.
 
 ## Preview
 
-![Sample wallpaper](b-014.jpg)
+![Sample wallpaper](previewwalpaper.png)
