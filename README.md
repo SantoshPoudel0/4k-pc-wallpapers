@@ -4,7 +4,7 @@ Free download of 1500+ HD and 4K desktop wallpapers for PC.
 
 ## Preview
 
-![Sample wallpaper](previewwalpaper.png)
+![Sample wallpaper](wallpapers/previewwalpaper.png)
 
 ## Download
 
