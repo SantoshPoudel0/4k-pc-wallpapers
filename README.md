@@ -10,4 +10,4 @@ Download from the latest release:
 
 ## License
 
-Free to use. See `LICENSE` for details.
+Free to use. See `LICENSE`.
