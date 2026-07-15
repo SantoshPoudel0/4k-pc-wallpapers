@@ -11,3 +11,7 @@ Download from the latest release:
 ## License
 
 Free to use. See `LICENSE`.
+
+## Preview
+
+![Sample wallpaper](b-014.jpg)
